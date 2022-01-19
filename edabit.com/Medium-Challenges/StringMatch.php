@@ -33,5 +33,5 @@ class StringMatch
 $str = new StringMatch();
 
 echo $str->match("yytaazz", "yyjaaz"); // 3
-echo $str->match("edabit", "ed"); // 1
+echo $str->match("Edabit", "ed"); // 1
 echo $str->match("", ""); // 0
