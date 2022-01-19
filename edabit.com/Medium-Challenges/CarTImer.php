@@ -2,7 +2,7 @@
 // https://edabit.com/challenge/jKurd2ziSE3CZinbL
 class CarTImer
 {
-    public function timer($timeInMins) {
+    public function timer($timeInMins): void {
         $minsInHour = 60;
 
         $hours = ($timeInMins / $minsInHour);
