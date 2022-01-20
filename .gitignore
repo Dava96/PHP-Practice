@@ -1,3 +1,5 @@
 /.idea/php.xml
 /.idea/.name
 /.idea/modules.xml
+
+/vendor/
